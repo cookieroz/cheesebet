@@ -1,0 +1,24 @@
+# dependencies
+/node_modules
+
+# production
+/.cache
+/build
+/public/build
+
+# misc
+.DS_Store
+dist/*
+.idea/
+
+.cache/
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# local env files
+.env
+.env.local
